@@ -19,5 +19,6 @@ class Whois {
             System.out.print((char) c);
         }
         s.close();
+       println("hello");
     }}
 
